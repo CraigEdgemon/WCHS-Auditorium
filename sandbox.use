@@ -1,4 +1,4 @@
-$(projectdir)/Auditorium.gcpro 7fffffff 46fab0 57d9e6f2 1.3
+$(projectdir)/Auditorium.gcpro e92c46eb 46fab0 57d9e6f2 1.3
 $(projectdir)/Auditorium.gdl 7fffffff 230779 57d9e1f4 1.2
 $(projectdir)/Speed_v1x2x0.glta 7df0e28d 1e7c76c 57d8bdea 1.1
 $(projectdir)/Database/epsn_1_212_v1_0_2.pkp 7c28c2ba 35791 57d8be1e 1.1
@@ -10,7 +10,7 @@ $(projectdir)/Docs/DTP-T-USW-333.pdf 7fffffff 629691 57d8be34 1.1
 $(projectdir)/Docs/MPS-602-SA.pdf 7fffffff 10ff89 57d8be3e 1.1
 $(projectdir)/Docs/PETERSON_AV_DRAWINGS.pdf 7fffffff 885738 57d8be48 1.1
 $(projectdir)/Docs/"WCHS Auditorium Info .msg" 7fffffff c8b400 57d8be64 1.1
-$(projectdir)/Docs/"WCHS Auditorum.xlsx" f110eace 6be9 57dada46 1.2
+$(projectdir)/Docs/"WCHS Auditorum.xlsx" 3496c29b 6bf9 57d8be7c 1.1
 $(projectdir)/Docs/ipatrly4_c-man.pdf 5c4c8d1f 768b3 57d8be7e 1.1
 $(projectdir)/Images/WCHS.PNG 7fffffff 94dd 57d8be7e 1.1
 $(projectdir)/Images/WCW-Primary-Logo+150+x+142.png 38dc9f93 766f 57d8be7e 1.1
